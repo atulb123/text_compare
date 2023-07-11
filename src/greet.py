@@ -3,4 +3,4 @@ class Greet:
         self.name=name
 
     def greeting(self):
-        print(f"Hello {self.name}, GM")
+        print(f"Hello {self.name}, GMM")
